@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Homepage</title>
+     <meta charset="UTF-8">
+     </head>
+     <body>
+   </body>
+   </html>
+      <div class="topnav-rigth">
+      <a href="index.html">Rachel Miller </a>
+      <a href="About"> About</a>
+      <a href="Resume"> Resume</a>
+      <a href="Work"> Work</a>
+      <div>
+        </body>
+        </html>
+
+        <h1>Hi, I’m Rachel, a product designer that has outstanding taste in art.</h1>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 150px;
+  margin: 6px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<div class="flex-container">
+  <h2>Bunny World Foundations</h2>
+  <a href="Screenshot 2024-01-09 12.45.03 JPG">Screenshot 2024-01-09 12.45.03 JPG</a>
+</div>
+
+  <div class="flex-container">
+  <h2>Loop</h2>
+  <a href="Screenshot 2024-01-09 12.45.03 JPG">Screenshot 2024-01-09 12.45.03 JPG</a>
+</div>
+  
+  <div class="flex-container">
+  <h2>TAV</h2>
+  <a href="Screenshot 2024-01-09 12.45.03 JPG">Screenshot 2024-01-09 12.45.03 JPG</a>
+</div>
+
+</body>
+</html>
+
+<h2>About</h2>
+
+<h4 style="text-align:left;">Hello, let me tell you a little bit about myself. I enjoy creating art occasionally, and you can see my work throughout. I'm also occasionally interested in fashion and creating small pieces of clothing. Please get in touch with me if you want to collaborate.</h4>
+
+<h3>Resume</h3>
+<h3>Linkedin</h3>
+<h3>Racheldm421</h3>
+
+</body>
+  </html>
+
+
+
+    //**CSS**//
+    
+.flex-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+}
+    
